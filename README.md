@@ -8,11 +8,10 @@
 
 ## 📁 저장소 구조
 
-MiniMiri/
-├── script/ # 최신 수정 버전 (main 브랜치 기준)
-├── legacy/ # 초기 개발 당시 코드 (legacy 브랜치 기준)
-└── README.md # 현재 문서
-
+📁 MiniMiri/
+├── 📂 script/     # 최신 수정 버전 (main 브랜치 기준)
+├── 📂 legacy/     # 초기 개발 당시 코드 (legacy 브랜치 기준)
+└── 📄 README.md   # 현재 문서
 
 > `main` 브랜치에는 최신 코드가,  
 > `legacy` 브랜치에는 예전 코드가 각각 포함되어 있습니다.
